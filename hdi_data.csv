@@ -1,0 +1,207 @@
+iso3,country,hdicode,hdi_rank_2021
+AFG,Afghanistan,Low,180
+AGO,Angola,Medium,148
+ALB,Albania,High,67
+AND,Andorra,Very High,40
+ARE,United Arab Emirates,Very High,26
+ARG,Argentina,Very High,47
+ARM,Armenia,High,85
+ATG,Antigua and Barbuda,High,71
+AUS,Australia,Very High,5
+AUT,Austria,Very High,25
+AZE,Azerbaijan,High,91
+BDI,Burundi,Low,187
+BEL,Belgium,Very High,13
+BEN,Benin,Low,166
+BFA,Burkina Faso,Low,184
+BGD,Bangladesh,Medium,129
+BGR,Bulgaria,High,68
+BHR,Bahrain,Very High,35
+BHS,Bahamas,Very High,55
+BIH,Bosnia and Herzegovina,High,74
+BLR,Belarus,Very High,60
+BLZ,Belize,Medium,123
+BOL,Bolivia (Plurinational State of),Medium,118
+BRA,Brazil,High,87
+BRB,Barbados,High,70
+BRN,Brunei Darussalam,Very High,51
+BTN,Bhutan,Medium,127
+BWA,Botswana,Medium,117
+CAF,Central African Republic,Low,188
+CAN,Canada,Very High,15
+CHE,Switzerland,Very High,1
+CHL,Chile,Very High,42
+CHN,China,High,79
+CIV,Côte d'Ivoire,Medium,159
+CMR,Cameroon,Medium,151
+COD,Congo (Democratic Republic of the),Low,179
+COG,Congo,Medium,153
+COL,Colombia,High,88
+COM,Comoros,Medium,156
+CPV,Cabo Verde,Medium,128
+CRI,Costa Rica,Very High,58
+CUB,Cuba,High,83
+CYP,Cyprus,Very High,29
+CZE,Czechia,Very High,32
+DEU,Germany,Very High,9
+DJI,Djibouti,Low,171
+DMA,Dominica,High,102
+DNK,Denmark,Very High,6
+DOM,Dominican Republic,High,80
+DZA,Algeria,High,91
+ECU,Ecuador,High,95
+EGY,Egypt,High,97
+ERI,Eritrea,Low,176
+ESP,Spain,Very High,27
+EST,Estonia,Very High,31
+ETH,Ethiopia,Low,175
+FIN,Finland,Very High,11
+FJI,Fiji,High,99
+FRA,France,Very High,28
+FSM,Micronesia (Federated States of),Medium,134
+GAB,Gabon,High,112
+GBR,United Kingdom,Very High,18
+GEO,Georgia,Very High,63
+GHA,Ghana,Medium,133
+GIN,Guinea,Low,182
+GMB,Gambia,Low,174
+GNB,Guinea-Bissau,Low,177
+GNQ,Equatorial Guinea,Medium,145
+GRC,Greece,Very High,33
+GRD,Grenada,High,68
+GTM,Guatemala,Medium,135
+GUY,Guyana,High,108
+HKG,"Hong Kong, China (SAR)",Very High,4
+HND,Honduras,Medium,137
+HRV,Croatia,Very High,40
+HTI,Haiti,Low,163
+HUN,Hungary,Very High,46
+IDN,Indonesia,High,114
+IND,India,Medium,132
+IRL,Ireland,Very High,8
+IRN,Iran (Islamic Republic of),High,76
+IRQ,Iraq,Medium,121
+ISL,Iceland,Very High,3
+ISR,Israel,Very High,22
+ITA,Italy,Very High,30
+JAM,Jamaica,High,110
+JOR,Jordan,High,102
+JPN,Japan,Very High,19
+KAZ,Kazakhstan,Very High,56
+KEN,Kenya,Medium,152
+KGZ,Kyrgyzstan,Medium,118
+KHM,Cambodia,Medium,146
+KIR,Kiribati,Medium,136
+KNA,Saint Kitts and Nevis,High,75
+KOR,Korea (Republic of),Very High,19
+KWT,Kuwait,Very High,50
+LAO,Lao People's Democratic Republic,Medium,140
+LBN,Lebanon,High,112
+LBR,Liberia,Low,178
+LBY,Libya,High,104
+LCA,Saint Lucia,High,106
+LIE,Liechtenstein,Very High,16
+LKA,Sri Lanka,High,73
+LSO,Lesotho,Low,168
+LTU,Lithuania,Very High,35
+LUX,Luxembourg,Very High,17
+LVA,Latvia,Very High,39
+MAR,Morocco,Medium,123
+MCO,Monaco,,
+MDA,Moldova (Republic of),High,80
+MDG,Madagascar,Low,173
+MDV,Maldives,High,90
+MEX,Mexico,High,86
+MHL,Marshall Islands,Medium,131
+MKD,North Macedonia,High,78
+MLI,Mali,Low,186
+MLT,Malta,Very High,23
+MMR,Myanmar,Medium,149
+MNE,Montenegro,Very High,49
+MNG,Mongolia,High,96
+MOZ,Mozambique,Low,185
+MRT,Mauritania,Medium,158
+MUS,Mauritius,Very High,63
+MWI,Malawi,Low,169
+MYS,Malaysia,Very High,62
+NAM,Namibia,Medium,139
+NER,Niger,Low,189
+NGA,Nigeria,Low,163
+NIC,Nicaragua,Medium,126
+NLD,Netherlands,Very High,10
+NOR,Norway,Very High,2
+NPL,Nepal,Medium,143
+NRU,Nauru,,
+NZL,New Zealand,Very High,13
+OMN,Oman,Very High,54
+PAK,Pakistan,Low,161
+PAN,Panama,Very High,61
+PER,Peru,High,84
+PHL,Philippines,Medium,116
+PLW,Palau,High,80
+PNG,Papua New Guinea,Medium,156
+POL,Poland,Very High,34
+PRK,Korea (Democratic People's Rep. of),,
+PRT,Portugal,Very High,38
+PRY,Paraguay,High,105
+PSE,"Palestine, State of",High,106
+QAT,Qatar,Very High,42
+ROU,Romania,Very High,53
+RUS,Russian Federation,Very High,52
+RWA,Rwanda,Low,165
+SAU,Saudi Arabia,Very High,35
+SDN,Sudan,Low,172
+SEN,Senegal,Low,170
+SGP,Singapore,Very High,12
+SLB,Solomon Islands,Medium,155
+SLE,Sierra Leone,Low,181
+SLV,El Salvador,Medium,125
+SMR,San Marino,Very High,44
+SOM,Somalia,,
+SRB,Serbia,Very High,63
+SSD,South Sudan,Low,191
+STP,Sao Tome and Principe,Medium,138
+SUR,Suriname,High,99
+SVK,Slovakia,Very High,45
+SVN,Slovenia,Very High,23
+SWE,Sweden,Very High,7
+SWZ,Eswatini (Kingdom of),Medium,144
+SYC,Seychelles,High,72
+SYR,Syrian Arab Republic,Medium,150
+TCD,Chad,Low,190
+TGO,Togo,Low,162
+THA,Thailand,Very High,66
+TJK,Tajikistan,Medium,122
+TKM,Turkmenistan,High,91
+TLS,Timor-Leste,Medium,140
+TON,Tonga,High,91
+TTO,Trinidad and Tobago,Very High,57
+TUN,Tunisia,High,97
+TUR,Turkey,Very High,48
+TUV,Tuvalu,Medium,130
+TZA,Tanzania (United Republic of),Low,160
+UGA,Uganda,Low,166
+UKR,Ukraine,High,77
+URY,Uruguay,Very High,58
+USA,United States,Very High,21
+UZB,Uzbekistan,High,101
+VCT,Saint Vincent and the Grenadines,High,89
+VEN,Venezuela (Bolivarian Republic of),Medium,120
+VNM,Viet Nam,High,115
+VUT,Vanuatu,Medium,140
+WSM,Samoa,High,111
+YEM,Yemen,Low,183
+ZAF,South Africa,High,109
+ZMB,Zambia,Medium,154
+ZWE,Zimbabwe,Medium,146
+ZZA.VHHD,Very high human development,,
+ZZB.HHD,High human development,,
+ZZC.MHD,Medium human development,,
+ZZD.LHD,Low human development,,
+ZZE.AS,Arab States,,
+ZZF.EAP,East Asia and the Pacific,,
+ZZG.ECA,Europe and Central Asia,,
+ZZH.LAC,Latin America and the Caribbean,,
+ZZI.SA,South Asia,,
+ZZJ.SSA,Sub-Saharan Africa,,
+ZZK.WORLD,World,,

@@ -12,6 +12,13 @@ services:
       - postgres_data:/var/lib/postgresql/data
     restart: always
 
+  load_data:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/app
+    command: ["python", "load_data.py"]
+
 volumes:
   postgres_data:
-  

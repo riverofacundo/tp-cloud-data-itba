@@ -1,10 +1,20 @@
-# Dataset: World Economic Indicators
+# 🌍 Proyecto WorldBank + HDI Data
 
-Este dataset contiene datos económicos y de desarrollo humano por país, con información sobre PIB, esperanza de vida, uso de Internet, y más.
+Este proyecto carga datos del Banco Mundial y del Índice de Desarrollo Humano (HDI) en una base de datos PostgreSQL utilizando Docker y Python.
 
-## Preguntas de negocio:
+---
 
-1. ¿Cuál fue el PIB per cápita de Argentina en 2020?
-2. ¿Qué países tenían más del 80% de su población usando Internet en 2021?
-3. ¿Cuáles son los 5 países con mayor HDI en 2021?
-4. ¿Cuál es el HDI y el PIB per cápita en 2021 de Argentina?
+## 📦 Requisitos
+
+- [Docker](https://www.docker.com/)
+- [Docker Compose](https://docs.docker.com/compose/)
+- Bash (en sistemas UNIX como Linux o macOS, o Git Bash en Windows)
+
+---
+
+## 🚀 ¿Cómo levantar todo el entorno?
+
+Usá el script `run_all.sh` para ejecutar todo automáticamente:
+
+```bash
+./run_all.sh
